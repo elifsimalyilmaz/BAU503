@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.PresentationLayer.exe.config
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.PresentationLayer.exe
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.PresentationLayer.pdb
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\obj\Debug\Kutuphane.PresentationLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\obj\Debug\Kutuphane.PresentationLayer.Properties.Resources.resources
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\obj\Debug\Kutuphane.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\obj\Debug\Kutuphane.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\obj\Debug\Kutuphane.PresentationLayer.exe
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\obj\Debug\Kutuphane.PresentationLayer.pdb
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\obj\Debug\Kutuphane.PresentationLayer.frmKITAP.resources
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.BLL.dll
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.EntityLayer.dll
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.FacadeLayer.dll
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.BLL.pdb
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\bin\Debug\Kutuphane.FacadeLayer.pdb
+C:\Users\user\Desktop\Kutuphane\Kutuphane.PresentationLayer\obj\Debug\Kutuphane.PresentationLayer.csproj.CopyComplete
